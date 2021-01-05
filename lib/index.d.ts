@@ -140,7 +140,7 @@ declare module 'convert-units' {
     | 'Speed'
     | 'Pace'
     | 'Pressure'
-    | 'Ditgital'
+    | 'Digital'
     | 'Illuminance'
     | 'PartsPer'
     | 'Voltage'
